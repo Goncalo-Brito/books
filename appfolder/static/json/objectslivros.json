@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "Nome do livro": "The Call of cthulhu",
+      "Categoria": "Thriller e Suspense",
+      "Autor": "H.P. Lovecraft",
+      "Classificação": "4.5/5"
+    },
+    {
+      "Nome do livro": "Como desaparecer por completo e num mais ser encontrado",
+      "Categoria": "-",
+      "Autor": "Doug Richmond",
+      "Classificação": "4.5/5"
+    },
+    {
+      "Nome do livro": "Como falar sobre livros que você não leu",
+      "Categoria": "-",
+      "Autor": "Pierre Bayard",
+      "Classificação": "4/5"
+    },
+    {
+      "Nome do livro": "As mulheres são humanas?",
+      "Categoria": "-",
+      "Autor": "Catharine MacKinnon",
+      "Classificação": "4.8/5"
+    }
+  ]
+}
